@@ -1,0 +1,8 @@
+PROYECTO CREADO A PARTIR DE LA REPLICA DEL DESARROLLO
+EXPLICADO EN EL RETATÓN, VIDEO 7 DE LA PLATAFORMA MOODLE
+
+Creado en: NetBeans IDE 12.4 con ANT
+
+Creado por: Jhon Fredy Márquez Cárdenas
+Grupo: J18
+Fecha: 11/ago/21
